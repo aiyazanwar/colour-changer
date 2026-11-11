@@ -1,0 +1,31 @@
+body {
+    background-color: white;
+    text-align: center;
+    padding-top: 150px;
+    font-family: Arial;
+}
+
+
+.box {
+    background-color: white;
+    width: 300px;
+    margin: 0 auto;
+    padding: 40px;
+    border-radius: 20px;
+}
+
+
+#color-name {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+/* color change button */
+#change-btn {
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 10px;
+}
